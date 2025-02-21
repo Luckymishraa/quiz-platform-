@@ -2,30 +2,70 @@ const questions = [
     {
         id: 1,
         type: "mcq", //for multiple choice questions
-        question: "What is the capital of france?",
-        options: ["Paris", "London", "Berlin", "Rome"],
-        answer: "Paris",
+        question: "Which planet is closest to the Sun?",
+        options: ["Venus", "Mercury", "Earth", "Mars"],
+        answer: "Mercury",
 
     },
     {
         id: 2,
         type: "mcq",
-        question: "Which language is used for web apps?",
-        options: ["Python", "Javascript", "C++", "Java"],
-        answer: "Javascript",
+        question: "Which data structure organizes items in a First-In, First-Out (FIFO) manner?",
+        options: ["Stack", "Queue", "Tree", "Graph"],
+        answer: "Queue",
     },
-    {
+    { 
         id:3,
-        type: "integer", //for integer typed questions
-        question:"What is 6 + 9",
-        answer:15, //saving ans in integer
+        type:"mcq",
+        question:"Which of the following is primarily used for structuring web pages?",
+        options: ["Python", "Java", "HTML", "C++"],
+        answer:"HTML"
     },
     {
         id:4,
-        type:"integer",
-        question:"What is the square root of 49?",
-        answe: 7,
+        type:"mcq",
+        question:"Which chemical symbol stands for Gold?",
+        options: ["Au", "Gd", "Ag", "Pt"],
+        answer:"Au"
     },
+    {
+        id:5,
+        type:"mcq",
+        question:"Which of these processes is not typically involved in refining petroleum?",
+        options: ["Fractional distillation", "Cracking", "Polymerization", "Filtration"],
+        answer:"Filtration"
+    }, 
+    {
+        id:6,
+        type: "integer", //for integer typed questions
+        question:"What is the value of 12 + 28?",
+        answer:40, //saving ans in integer
+    },
+    {
+        id:7,
+        type:"integer",
+        question:"How many states are there in the United States?",
+        answer: 50,
+    },
+    {
+        id:8,
+        type:"integer",
+        question:"In which year was the Declaration of Independence signed?",
+        answer: 1776,
+    },
+    {
+        id:9,
+        type:"integer",
+        question:"What is the value of pi rounded to the nearest integer?",
+        answer: 3,
+    },
+    {
+        id:10,
+        type:"integer",
+        question:"If a car travels at 60 mph for 2 hours, how many miles does it travel?",
+        answer: 120,
+    },
+   
 ];
 
 
