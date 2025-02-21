@@ -58,6 +58,7 @@ npm start
 npm run build
 
 ---
+## Screenshots
 
 <img width="1440" alt="Screenshot 2025-02-21 at 5 18 23 PM" src="https://github.com/user-attachments/assets/c311e4db-e38c-41c4-b656-65645296bc62" />
 
@@ -66,8 +67,4 @@ npm run build
 <img width="1440" alt="Screenshot 2025-02-21 at 5 19 46 PM" src="https://github.com/user-attachments/assets/7e0a8bdc-75dd-4e64-9eef-d0411108067f" />
 
 
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
