@@ -1,55 +1,63 @@
-Quiz Platform
+# Quiz Platform
 
 An interactive quiz platform built using React.js and Tailwind CSS, designed to provide an engaging and user-friendly experience for taking quizzes. The platform supports multiple-choice and integer-typed questions, maintains quiz history using IndexedDB, and offers a well-structured scoreboard.
 
-Features
+--- 
 
-Engaging Home Page: Welcomes users with an interactive message and a button to start the quiz.
+## Features
 
-Multiple Question Types: Supports both multiple-choice and integer-typed questions.
+- **Engaging Home Page**: Welcomes users with an interactive message and a button to start the quiz.
 
-Quiz Attempt History: Displays past quiz attempts in a structured table format.
+- **Multiple Question Typers**: Supports both multiple-choice and integer-typed questions.
 
-Scoreboard: Allows users to track their performance.
+- **Quiz Attempt History**: Displays past quiz attempts in a structured table format.
 
-Responsive Design: Optimized for all devices using Tailwind CSS.
+- **Scoreboard**: Allows users to track their performance.
 
-Persistent Data Storage: Stores quiz history in IndexedDB for long-term access.
+- **Responsive Design**: Optimized for all devices using Tailwind CSS.
 
-Deployment: Hosted on Vercel or Netlify for easy access.
+- **Persistent Data Storage**: Stores quiz history in IndexedDB for long-term access.
 
-GitHub Repository Maintenance: The codebase is managed on GitHub for version control and collaboration.
+- **Deployment**: Hosted on Vercel or Netlify for easy access.
 
-Technologies Used
+- **GitHub Repository Maintenance**: The codebase is managed on GitHub for version control and collaboration.
 
-Frontend: React.js, Tailwind CSS
+---
 
-State Management: React Hooks
+## Technologies Used
 
-Database: IndexedDB
+- **Frontend**: React.js, Tailwind CSS
 
-Deployment: Netlify
+- **State Management**: React Hooks
 
-Version Control: GitHub
+- **Database**: IndexedDB
 
-Installation & Setup
+- **Deployment**: Netlify
 
-Clone the repository:
+- **Version Control**: GitHub
+
+---
+
+## Installation & Setup
+
+### Clone the repository:
 
 git clone https://github.com/your-username/quiz-platform.git
 cd quiz-platform
 
-Install dependencies:
+### Install dependencies:
 
 npm install
 
-Start the development server:
+### Start the development server:
 
 npm start
 
-Build for production:
+### Build for production:
 
 npm run build
+
+---
 
 <img width="1440" alt="Screenshot 2025-02-21 at 5 18 23 PM" src="https://github.com/user-attachments/assets/c311e4db-e38c-41c4-b656-65645296bc62" />
 
