@@ -59,10 +59,15 @@ npm run build
 
 ---
 ## Screenshots
+- **Home Page**:
 
 <img width="1440" alt="Screenshot 2025-02-21 at 5 18 23 PM" src="https://github.com/user-attachments/assets/c311e4db-e38c-41c4-b656-65645296bc62" />
 
+- **Quiz Page**:
+  
 <img width="1440" alt="Screenshot 2025-02-21 at 5 18 34 PM" src="https://github.com/user-attachments/assets/eff1fb6e-296b-43a7-ba4e-352705917871" />
+
+- **Attempts Page**:
 
 <img width="1440" alt="Screenshot 2025-02-21 at 5 19 46 PM" src="https://github.com/user-attachments/assets/7e0a8bdc-75dd-4e64-9eef-d0411108067f" />
 
